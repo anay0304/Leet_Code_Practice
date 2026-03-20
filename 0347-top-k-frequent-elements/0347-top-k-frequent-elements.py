@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-
+        
         map = {}
         result = []
 
