@@ -4,8 +4,9 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        map={}
         
+        map = {}
+
         for i in strs:
             key = tuple(sorted(i))
 
