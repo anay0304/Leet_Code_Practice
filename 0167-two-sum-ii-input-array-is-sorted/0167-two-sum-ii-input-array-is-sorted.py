@@ -5,18 +5,19 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-
+        
         l = 0
         r = len(numbers) - 1
 
         while (l < r):
 
-            sum = numbers[l] + numbers[r]
+            twoSum = numbers[l] + numbers[r]
 
-            if sum == target:
+            if twoSum == target:
                 return [l + 1, r + 1]
-            if sum > target:
-                r -= 1
-            if sum < target:
+            
+            elif twoSum < target:
                 l += 1
-                
+            else:
+                r -= 1
+        
