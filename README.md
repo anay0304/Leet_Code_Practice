@@ -21,18 +21,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anay0304/Leet_Code_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anay0304/Leet_Code_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anay0304/Leet_Code_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anay0304/Leet_Code_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anay0304/Leet_Code_Practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anay0304/Leet_Code_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anay0304/Leet_Code_Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/anay0304/Leet_Code_Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anay0304/Leet_Code_Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anay0304/Leet_Code_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anay0304/Leet_Code_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anay0304/Leet_Code_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anay0304/Leet_Code_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
