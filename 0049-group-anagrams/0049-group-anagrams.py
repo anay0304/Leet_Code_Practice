@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: List[List[str]]
         """
         
+        strs = sorted(strs)
         map = {}
 
         for i in strs:
@@ -14,5 +15,4 @@ class Solution(object):
                 map[key] = []
 
             map[key].append(i)
-
         return map.values()
