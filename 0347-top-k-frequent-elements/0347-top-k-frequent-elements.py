@@ -12,9 +12,9 @@ class Solution(object):
         for i in nums:
             map[i] = map.get(i, 0) + 1
 
-        sortedMap = sorted(map.items(), key=lambda x: x[1], reverse=True)
+        sortedMap = sorted(map.items(), key=lambda x:x[1],reverse=True)
 
-        for i in range(k):
-            result.append(sortedMap[i][0])
+        for j in range(k):
+            result.append(sortedMap[j][0])
 
         return result
