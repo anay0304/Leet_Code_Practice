@@ -9,8 +9,8 @@ class Solution(object):
         l = 0
         r = len(numbers) - 1
 
-        while (l < r):
-
+        while(l < r):
+            
             twoSum = numbers[l] + numbers[r]
 
             if twoSum == target:
@@ -20,4 +20,5 @@ class Solution(object):
                 l += 1
             else:
                 r -= 1
-        
+
+            
