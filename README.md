@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anay0304/Leet_Code_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anay0304/Leet_Code_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anay0304/Leet_Code_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anay0304/Leet_Code_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anay0304/Leet_Code_Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anay0304/Leet_Code_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anay0304/Leet_Code_Practice/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,9 +96,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anay0304/Leet_Code_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anay0304/Leet_Code_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anay0304/Leet_Code_Practice/tree/master/0424-longest-repeating-character-replacement) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
