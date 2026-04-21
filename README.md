@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anay0304/Leet_Code_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anay0304/Leet_Code_Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anay0304/Leet_Code_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0994-rotting-oranges](https://github.com/anay0304/Leet_Code_Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anay0304/Leet_Code_Practice/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/anay0304/Leet_Code_Practice/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/anay0304/Leet_Code_Practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
