@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anay0304/Leet_Code_Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/anay0304/Leet_Code_Practice/tree/master/0577-employee-bonus) |
 | [1045-customers-who-bought-all-products](https://github.com/anay0304/Leet_Code_Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/anay0304/Leet_Code_Practice/tree/master/1070-product-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/anay0304/Leet_Code_Practice/tree/master/1193-monthly-transactions-i) |
