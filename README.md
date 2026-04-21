@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/anay0304/Leet_Code_Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/anay0304/Leet_Code_Practice/tree/master/0994-rotting-oranges) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/anay0304/Leet_Code_Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
